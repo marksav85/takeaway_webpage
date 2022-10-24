@@ -137,7 +137,7 @@ ul li a:hover{
 }
 #row2::before{
     content: '';
-    background: url('2.jpeg') no-repeat center center/cover;
+    background: url('beerguide.jpg') no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left:0px;

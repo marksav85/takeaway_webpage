@@ -225,6 +225,13 @@ footer{
     align-items: center;
     background-color: gray;
 }
+
+#describe {
+  text-align:center;
+  color:black;
+  font-size:21px;
+  font-family: 'Ubuntu Mono', monospace;
+}
 .form-shape input, .form-shape select, .form-shape textarea{
    width: 92%;
    padding: 0.5rem;

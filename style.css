@@ -223,9 +223,11 @@ footer{
     display:flex;
     flex-direction: column;
     align-items: center;
-    background-color: gray;
+    background-color: #FFC85A;
 }
-
+#radio {
+  margin-bottom: 20px;
+}
 #describe {
   text-align:center;
   color:black;
